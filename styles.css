@@ -231,7 +231,7 @@
     width: 50%;
     float: left;
     margin-bottom: 30px;
-    clear:none;
+    clear: none;
   }
   .container-col2 {
     width: 50%;
@@ -246,10 +246,6 @@
   .container-col2 .list {
     float: left;
     width: 550px;
-  }
-  .bronze, .silver {
-    display: block;
-    position: relative;
   }
 
   @media only screen and (max-width: 900px) {
