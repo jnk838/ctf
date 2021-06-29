@@ -263,4 +263,16 @@
       float: none !important;
       margin: 10px auto;
     }
+    .container-col1 .list {
+      width: 90% !important;
+    }
+    .container-col2 .list {
+      width: 90% !important;
+    }
+    .button {
+      width: 90% !important;
+    }
+    .button a {
+      width: 90% !important;
+    }
   }
