@@ -248,7 +248,7 @@
     width: 550px;
   }
 
-  @media only screen and (max-width: 900px) {
+  @media only screen and (max-width: 1150px) {
     .container-col1 {
       width: 100%;
       float: none;
